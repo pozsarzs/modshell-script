@@ -8,6 +8,10 @@
   "publisher": "pozsarzs",
   "license": "EUPL v1.2",
   "homepage": "https://github.com/pozsarzs/modshell",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pozsarzs/modshell-script.git"
+    },
   "engines": {
     "vscode": "^1.97.0"
   },
