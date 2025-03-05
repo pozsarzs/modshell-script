@@ -14,3 +14,9 @@ Clone directly the extension to your VSCode extension path as suggested:
 ```
 git clone git@github.com:pozsarzs/modshell-script.git ~/.vscode/extensions/
 ```
+
+Related application:
+
+```
+git clone git@github.com:pozsarzs/modshell.git
+```
